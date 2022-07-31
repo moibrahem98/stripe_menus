@@ -1,6 +1,6 @@
-import React from 'react'
-import phoneImg from './images/phone.svg'
-import { useGlobalContext } from './context'
+import React from 'react';
+import phoneImg from './images/phone.svg';
+import { useGlobalContext } from './context';
 
 const Hero = () => {
   const { closeSubmenu } = useGlobalContext();
@@ -24,7 +24,7 @@ const Hero = () => {
         </article>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default Hero
+export default Hero;
