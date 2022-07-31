@@ -2,7 +2,7 @@
   "name": "reminder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/moibrahem98/StripeMenu",
+  "homepage": "https://moibrahem98.github.com/StripeMenu",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
